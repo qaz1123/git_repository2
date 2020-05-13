@@ -6,6 +6,8 @@ public class Test1 {
         System.out.println("22222");
      //桃子输出了999
         System.out.println("999");
+  //栗子输出了777
+        System.out.println("777");
     }
 
 }
